@@ -1,0 +1,42 @@
+_repo: Penelope-and-the-Others--Story-of-Five-Country-Children_21231
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leonard Leslie
+    - Brooke, Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walton, Amy
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '32944'
+    url: http://www.gutenberg.org/2009/agents/32944
+description: ''
+gutenberg_issued: '2007-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Museums -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Physicians -- Juvenile fiction'
+title: 'Penelope and the Others: Story of Five Country Children'
+url: http://www.gutenberg.org/ebooks/21231
