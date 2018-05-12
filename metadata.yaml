@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '32944'
     url: http://www.gutenberg.org/2009/agents/32944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21231#Penelope-and-the-Others--Story-of-Five-Country-Children
 gutenberg_issued: '2007-04-27'
 gutenberg_type: Text
 identifiers:
